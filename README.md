@@ -14,3 +14,5 @@ Information architecture
 3、创建信息产品跟体验，技术艺术及科学已提供可用性，可行性和可理解性
 
 4、一种新兴的实践性学科群体，目的是把设计和建筑学的原理导入数字领域中。
+
+http://buymecoffee.labione
